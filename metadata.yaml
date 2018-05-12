@@ -1,0 +1,36 @@
+_repo: Song-in-a-Minor-Key_28550
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, C. L. (Catherine Lucile)
+    aliases:
+    - Moore, Catherine Lucille
+    - Мур, К.
+    - Moore, Catherine Lucile
+    - Kuttner, C. L. Moore (Catherine Lucile Moore)
+    birthdate: 1911
+    deathdate: 1987
+    gutenberg_agent_id: '33397'
+    url: http://www.gutenberg.org/2009/agents/33397
+    wikipedia: http://en.wikipedia.org/wiki/C._L._Moore
+description: ''
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2009-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Song in a Minor Key
+url: http://www.gutenberg.org/ebooks/28550
